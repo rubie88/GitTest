@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;;
+    font-weight: bold;
+	color: blue;
+}
+
+#main-content{
+	margin:auto;
+	border: solid green 2px;
+	padding: 50px;
+}
